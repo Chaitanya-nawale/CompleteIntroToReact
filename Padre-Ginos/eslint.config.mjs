@@ -26,7 +26,7 @@ export default [
       },
     },
     rules: {
-      "react/no-escaped-entities": "off",
+      "react/no-unescaped-entities": "off",
       "react/prop-types": "off",
     },
   },
